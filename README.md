@@ -1,0 +1,1 @@
+sampol lng naman eto
