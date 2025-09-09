@@ -1,3 +1,7 @@
 sampol lng naman eto
 
-testing lang ulit eto
+testing lang ulit
+
+o heto pa yung isang sampol na linyahan
+
+gets mo ba.?
